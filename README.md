@@ -1,6 +1,5 @@
-CodeIgniter 4 - Sistema de Gestão de Vagas de Emprego
-Sobre
-Sistema de Gestão de Vagas de Emprego criado para o Teste para candidatos à vaga de Desenvolvedor PHP Pleno.
+#CodeIgniter 4 - Sistema de Gestão de Vagas de Emprego Sobre
+#Sistema de Gestão de Vagas de Emprego criado para o Teste para candidatos à vaga de Desenvolvedor PHP Pleno.
 
 Livremente Inspirado em: https://github.com/dotlib/teste-desenvolvedor-php/blob/master/teste-pleno.md
 Não me candidatei à vaga. Apenas resolvi implementar o desafio em Codeigniter 4 a fim de refinar meu conhecimentos acerca do Framework.
